@@ -8,6 +8,7 @@ public class Test {
 	public void loginTest(){
 		
 		System.out.println("We are learing Git and GitHub through Eclipse.");
+		System.out.println("We had our initial commit.");
 	}
 
 }
